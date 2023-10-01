@@ -10,7 +10,7 @@
 #include <EEPROM.h>
 #include <MIDI.h> // MIDI library
 #include <Wire.h> //  I2C Comm
-#include <mcp4728.h> // MCP4728 library
+#include "mcp4728.h" // MCP4728 library
 #include <avr/eeprom.h>
 
 // Input / output definitions
